@@ -1,0 +1,493 @@
+/* screen - 3d-models */
+
+.x3d-models {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgba(1, 98, 192, 0.3) 0%, rgb(92, 96, 111) 100%);
+  background-color: rgba(255,255,255,1.0);
+  display: flex;
+  flex-direction: column;
+  height: 4324px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.x3d-models .overlap-group5 {
+  height: 1357px;
+  margin-right: -1912px;
+  position: relative;
+  width: 3971px;
+}
+
+.x3d-models .overlap-group1 {
+  height: 309px;
+  left: 1096px;
+  position: absolute;
+  top: 1048px;
+  width: 963px;
+}
+
+.x3d-models .vector {
+  height: 170px;
+  left: 296px;
+  position: absolute;
+  top: 139px;
+  width: 647px;
+}
+
+.x3d-models .vector-1 {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 229px;
+  width: 303px;
+}
+
+.x3d-models .vector-2 {
+  height: 133px;
+  left: 643px;
+  position: absolute;
+  top: 40px;
+  width: 204px;
+}
+
+.x3d-models .vector-3 {
+  height: 309px;
+  left: 305px;
+  position: absolute;
+  top: 0;
+  width: 658px;
+}
+
+.x3d-models .this-was-a-project-f {
+  left: 363px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: 329px;
+}
+
+.x3d-models .overlap-group2 {
+  height: 220px;
+  left: 896px;
+  position: absolute;
+  top: 235px;
+  width: 886px;
+}
+
+.x3d-models .rectangle-84 {
+  background-color: var(--science-blue);
+  border-radius: 15px;
+  height: 220px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 885px;
+}
+
+.x3d-models .x3-d-room-model-a-stu {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 57px;
+  width: 886px;
+}
+
+.x3d-models .redone_room_pic2 {
+  height: 315px;
+  left: 823px;
+  object-fit: cover;
+  position: absolute;
+  top: 515px;
+  width: 556px;
+}
+
+.x3d-models .frame-2 {
+  align-items: flex-end;
+  background-color: var(--tangaroa);
+  border-radius: 0px 0px 15px 15px;
+  display: flex;
+  height: 225px;
+  left: 619px;
+  overflow: hidden;
+  padding: 30px 450px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.x3d-models .projects {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 8px;
+  min-height: 48px;
+  min-width: 162px;
+  white-space: nowrap;
+}
+
+.x3d-models .frame-47554 {
+  align-items: flex-end;
+  display: flex;
+  gap: 11777px;
+  height: 1070px;
+  left: 0;
+  min-width: 3971px;
+  position: absolute;
+  top: 192px;
+}
+
+.x3d-models .vector-4 {
+  height: 147px;
+  margin-bottom: -866px;
+  margin-left: -11713px;
+  width: 555px;
+}
+
+.x3d-models .overlap-group4 {
+  height: 1070px;
+  position: relative;
+  width: 1440px;
+}
+
+.x3d-models .vector-5 {
+  height: 570px;
+  left: 0;
+  position: absolute;
+  top: 500px;
+  width: 1440px;
+}
+
+.x3d-models .vector-6 {
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 756px;
+  width: 1109px;
+}
+
+.x3d-models .vector-7 {
+  height: 754px;
+  left: 737px;
+  position: absolute;
+  top: 0;
+  width: 703px;
+}
+
+.x3d-models .vector-8 {
+  height: 415px;
+  left: 714px;
+  position: absolute;
+  top: 338px;
+  width: 726px;
+}
+
+.x3d-models .vector-9 {
+  height: 195px;
+  left: 0;
+  position: absolute;
+  top: 559px;
+  width: 732px;
+}
+
+.x3d-models .this-project-involve {
+  left: 818px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 300px;
+  width: 435px;
+}
+
+.x3d-models .to-create-a-realisti {
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 719px;
+  width: 441px;
+}
+
+.x3d-models .goal {
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 681px;
+  white-space: nowrap;
+  width: 441px;
+}
+
+.x3d-models .flex-row {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  margin-left: 5.0px;
+  margin-top: 36px;
+  min-width: 1071px;
+}
+
+.x3d-models .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 2269px;
+  width: 436px;
+}
+
+.x3d-models .redone_room_pic1 {
+  height: 250px;
+  margin-left: 1px;
+  width: 435px;
+}
+
+.x3d-models .frame-47560 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-top: 62px;
+  min-height: 339px;
+  padding: 17px 15px;
+  width: 435px;
+}
+
+.x3d-models .texturing {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  width: 404px;
+}
+
+.x3d-models .applied-high-resolut {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 261px;
+  width: 400px;
+}
+
+.x3d-models .redone_room_pic5 {
+  height: 250px;
+  margin-left: 1px;
+  margin-top: 62px;
+  object-fit: cover;
+  width: 433px;
+}
+
+.x3d-models .frame-47572 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-top: 62px;
+  min-height: 339px;
+  padding: 32px 15px;
+  width: 435px;
+}
+
+.x3d-models .lighting {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  width: 404px;
+}
+
+.x3d-models .implemented-a-combin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 232px;
+  width: 400px;
+}
+
+.x3d-models .redone_room_pic4 {
+  height: 250px;
+  margin-top: 27px;
+  width: 435px;
+}
+
+.x3d-models .flex-col-item {
+  height: 250px;
+  margin-top: 64px;
+  width: 435px;
+}
+
+.x3d-models .overlap-group3 {
+  height: 2269px;
+  margin-left: 47px;
+  position: relative;
+  width: 100px;
+}
+
+.x3d-models .ellipse-195 {
+  top: 2169px;
+}
+
+.x3d-models .rectangle-93 {
+  background-color: var(--white);
+  border-radius: 30px;
+  height: 2212px;
+  left: 26px;
+  position: absolute;
+  top: 57px;
+  width: 48px;
+}
+
+.x3d-models .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 53px;
+  min-height: 2239px;
+  width: 435px;
+}
+
+.x3d-models .frame-47559 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-height: 318px;
+  padding: 36px 15px;
+  width: 435px;
+}
+
+.x3d-models .modeling {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  width: 404px;
+}
+
+.x3d-models .modeled-furniture-d {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 203px;
+  width: 400px;
+}
+
+.x3d-models .tankcloseup {
+  height: 250px;
+  margin-top: 44px;
+  object-fit: cover;
+  width: 435px;
+}
+
+.x3d-models .frame-47571 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-top: 36px;
+  min-height: 339px;
+  padding: 46px 15px;
+  width: 435px;
+}
+
+.x3d-models .surname {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  width: 404px;
+}
+
+.x3d-models .a-functional-lived {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 203px;
+  width: 400px;
+}
+
+.x3d-models .redone_room_pic3 {
+  height: 250px;
+  margin-top: 53px;
+  object-fit: cover;
+  width: 435px;
+}
+
+.x3d-models .redone_room_pic7 {
+  height: 250px;
+  margin-top: 71px;
+  object-fit: cover;
+  width: 434px;
+}
+
+.x3d-models .flex-col-item-1 {
+  height: 250px;
+  margin-top: 64px;
+  object-fit: cover;
+  width: 435px;
+}
+
+.x3d-models .overlap-group6 {
+  height: 642px;
+  margin-right: -223px;
+  margin-top: 20px;
+  position: relative;
+  width: 1712px;
+}
+
+.x3d-models .frame-47573 {
+  height: 225px;
+  left: 49px;
+  position: absolute;
+  top: 417px;
+  width: 1440px;
+}
+
+.x3d-models .overlap-group {
+  height: 428px;
+  left: 408px;
+  position: absolute;
+  top: 0;
+  width: 1081px;
+}
+
+.x3d-models .vector-10 {
+  height: 428px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 1069px;
+}
+
+.x3d-models .vector-11 {
+  height: 235px;
+  left: 0;
+  position: absolute;
+  top: 192px;
+  width: 890px;
+}
+
+.x3d-models .explore-this-cozy-m {
+  left: 115px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 118px;
+  width: 433px;
+}
+
+.x3d-models .ellipse {
+  background-color: var(--white);
+  border-radius: 50px;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  width: 100px;
+}

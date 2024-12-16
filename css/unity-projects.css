@@ -1,0 +1,922 @@
+/* screen - unity-projects */
+
+.unity-projects {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(1, 98, 192, 0.3) 0%, rgb(92, 96, 111) 100%);
+  background-color: rgba(255,255,255,1.0);
+  display: flex;
+  flex-direction: column;
+  height: 7216px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.unity-projects .frame-2 {
+  align-items: flex-end;
+  background-color: var(--tangaroa);
+  border-radius: 0px 0px 15px 15px;
+  display: flex;
+  height: 225px;
+  overflow: hidden;
+  padding: 30px 450px;
+  width: 1440px;
+}
+
+.unity-projects .projects {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 8px;
+  min-height: 48px;
+  min-width: 162px;
+  white-space: nowrap;
+}
+
+.unity-projects .overlap-group14 {
+  align-self: flex-start;
+  height: 2932px;
+  margin-left: -883px;
+  margin-top: 10px;
+  position: relative;
+  width: 3971px;
+}
+
+.unity-projects .overlap-group7 {
+  height: 635px;
+  left: 1074px;
+  position: absolute;
+  top: 2297px;
+  width: 1221px;
+}
+
+.unity-projects .overlap-group13 {
+  height: 634px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1221px;
+}
+
+.unity-projects .sanity-system-dynam {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 431px;
+  width: 1064px;
+}
+
+.unity-projects .frame-47613 {
+  height: 147px;
+  left: 666px;
+  position: absolute;
+  top: 290px;
+  width: 555px;
+}
+
+.unity-projects .frame-47652 {
+  background-image: url(../img/screen-recording-2024-11-23-211940-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 290px;
+  left: 593px;
+  position: absolute;
+  top: 0;
+  width: 516px;
+}
+
+.unity-projects .features {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 370px;
+  width: 436px;
+}
+
+.unity-projects .overlap-group9 {
+  height: 2617px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 3971px;
+}
+
+.unity-projects .frame-47655 {
+  height: 147px;
+  left: 883px;
+  position: absolute;
+  top: 2207px;
+  width: 450px;
+}
+
+.unity-projects .frame-47572 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 1070px;
+  min-height: 339px;
+  padding: 32px 15px;
+  position: absolute;
+  top: 2278px;
+  width: 435px;
+}
+
+.unity-projects .aesthetic-design {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  width: 404px;
+}
+
+.unity-projects .created-a-dark-atmo {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 232px;
+  width: 400px;
+}
+
+.unity-projects .frame-47575 {
+  background-image: url(../img/screen-recording-2024-11-23-214020-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 294px;
+  left: 1041px;
+  position: absolute;
+  top: 1962px;
+  width: 516px;
+}
+
+.unity-projects .frame-47574 {
+  background-image: url(../img/com-oculus-vrshell-20241119-023332.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 290px;
+  left: 1667px;
+  position: absolute;
+  top: 1621px;
+  width: 516px;
+}
+
+.unity-projects .frame-47559 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 1702px;
+  min-height: 318px;
+  padding: 36px 15px;
+  position: absolute;
+  top: 1283px;
+  width: 435px;
+}
+
+.unity-projects .designed-the-narrati {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 203px;
+  width: 400px;
+}
+
+.unity-projects .overlap-group2 {
+  height: 1514px;
+  left: 1553px;
+  position: absolute;
+  top: 1153px;
+  width: 100px;
+}
+
+.unity-projects .ellipse-195 {
+  top: 1414px;
+}
+
+.unity-projects .rectangle-93 {
+  background-color: var(--white);
+  border-radius: 30px;
+  height: 1427px;
+  left: 26px;
+  position: absolute;
+  top: 37px;
+  width: 48px;
+}
+
+.unity-projects .approach-and-process {
+  left: 1071px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1160px;
+  width: 436px;
+}
+
+.unity-projects .overlap-group3 {
+  height: 1160px;
+  left: 883px;
+  position: absolute;
+  top: -60px;
+  width: 1440px;
+}
+
+.unity-projects .vector {
+  height: 570px;
+  left: 0;
+  position: absolute;
+  top: 590px;
+  width: 1440px;
+}
+
+.unity-projects .vector-1 {
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 846px;
+  width: 1037px;
+}
+
+.unity-projects .vector-2 {
+  height: 754px;
+  left: 525px;
+  position: absolute;
+  top: 0;
+  width: 915px;
+}
+
+.unity-projects .vector-3 {
+  height: 415px;
+  left: 502px;
+  position: absolute;
+  top: 338px;
+  width: 938px;
+}
+
+.unity-projects .vector-4 {
+  height: 195px;
+  left: 0;
+  position: absolute;
+  top: 711px;
+  width: 468px;
+}
+
+.unity-projects .asylum-dxr-is-a-psyc {
+  left: 736px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 302px;
+  width: 516px;
+}
+
+.unity-projects .to-create-a-fully-im {
+  left: 192px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 776px;
+  width: 402px;
+}
+
+.unity-projects .objective {
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 737px;
+  width: 333px;
+}
+
+.unity-projects .overlap-group4 {
+  height: 309px;
+  left: 1353px;
+  position: absolute;
+  top: 974px;
+  width: 970px;
+}
+
+.unity-projects .vector-5 {
+  height: 170px;
+  left: 296px;
+  position: absolute;
+  top: 139px;
+  width: 647px;
+}
+
+.unity-projects .vector-6 {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 229px;
+  width: 303px;
+}
+
+.unity-projects .vector-7 {
+  height: 133px;
+  left: 643px;
+  position: absolute;
+  top: 40px;
+  width: 204px;
+}
+
+.unity-projects .vector-8 {
+  height: 309px;
+  left: 305px;
+  position: absolute;
+  top: 0;
+  width: 665px;
+}
+
+.unity-projects .this-was-a-project-f {
+  left: 363px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: 338px;
+}
+
+.unity-projects .frame-47615 {
+  height: 101px;
+  left: 1814px;
+  position: absolute;
+  top: 831px;
+  width: 509px;
+}
+
+.unity-projects .frame-47581 {
+  background-image: url(../img/com-oculus-vrshell-20241119-023759.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 293px;
+  left: 1619px;
+  position: absolute;
+  top: 711px;
+  width: 516px;
+}
+
+.unity-projects .frame-47570 {
+  align-items: flex-start;
+  background-image: url(../img/com-oculus-vrshell-20241119-024059-1-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 15px;
+  display: flex;
+  height: 333px;
+  left: 1077px;
+  min-width: 522px;
+  padding: 81px 44px;
+  position: absolute;
+  top: 265px;
+}
+
+.unity-projects .title {
+  color: var(--white);
+  font-family: var(--font-family-eater);
+  font-size: 96px;
+  font-weight: 400;
+  height: 151px;
+  letter-spacing: 0;
+  line-height: 151.4px;
+  min-width: 425px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.unity-projects .overlap-group5 {
+  height: 257px;
+  left: 883px;
+  position: absolute;
+  top: 0;
+  width: 1163px;
+}
+
+.unity-projects .vector-9 {
+  height: 147px;
+  left: 0;
+  position: absolute;
+  top: 110px;
+  width: 478px;
+}
+
+.unity-projects .rectangle-84 {
+  background-color: var(--science-blue);
+  border-radius: 15px;
+  height: 220px;
+  left: 278px;
+  position: absolute;
+  top: 0;
+  width: 885px;
+}
+
+.unity-projects .asylum-dxr-a-psycho {
+  left: 277px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 57px;
+  width: 886px;
+}
+
+.unity-projects .frame-47611 {
+  height: 101px;
+  left: 1845px;
+  position: absolute;
+  top: 1550px;
+  width: 478px;
+}
+
+.unity-projects .frame-container {
+  height: 339px;
+  left: 1703px;
+  position: absolute;
+  top: 1931px;
+  width: 620px;
+}
+
+.unity-projects .frame-47612 {
+  height: 101px;
+  left: 111px;
+  position: absolute;
+  top: 118px;
+  width: 509px;
+}
+
+.unity-projects .frame-47571 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 0;
+  min-height: 339px;
+  padding: 46px 15px;
+  position: absolute;
+  top: 0;
+  width: 435px;
+}
+
+.unity-projects .technical-implementation {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  width: 404px;
+}
+
+.unity-projects .built-using-unity-wi {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 203px;
+  width: 400px;
+}
+
+.unity-projects .frame-47560 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 1071px;
+  min-height: 339px;
+  padding: 17px 15px;
+  position: absolute;
+  top: 1601px;
+  width: 435px;
+}
+
+.unity-projects .game-mechanics {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  width: 404px;
+}
+
+.unity-projects .implemented-a-sanity {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 261px;
+  width: 400px;
+}
+
+.unity-projects .frame-container-1 {
+  height: 290px;
+  left: 883px;
+  position: absolute;
+  top: 1289px;
+  width: 638px;
+}
+
+.unity-projects .frame-47614 {
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 370px;
+}
+
+.unity-projects .frame-47573 {
+  background-image: url(../img/com-oculus-vrshell-20241119-023238.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 290px;
+  left: 122px;
+  position: absolute;
+  top: 0;
+  width: 516px;
+}
+
+.unity-projects .frame-47617 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 18px;
+  min-width: 746px;
+}
+
+.unity-projects .screen-recording-2024-11-23-214020_1-1 {
+  height: 420px;
+  object-fit: cover;
+  width: 746px;
+}
+
+.unity-projects .frame-47654 {
+  align-items: flex-start;
+  display: flex;
+  height: 116px;
+  margin-left: 6.0px;
+  margin-top: 22px;
+  min-width: 1064px;
+}
+
+.unity-projects .interactive-gameplay {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 116px;
+  width: 1064px;
+}
+
+.unity-projects .overlap-group10 {
+  align-self: flex-start;
+  height: 420px;
+  margin-top: 19px;
+  position: relative;
+  width: 1093px;
+}
+
+.unity-projects .frame-47618 {
+  height: 147px;
+  left: 0;
+  position: absolute;
+  top: 188px;
+  width: 434px;
+}
+
+.unity-projects .screen-recording-2024-11-23-212157_1-1 {
+  height: 453px;
+  left: 382px;
+  object-fit: cover;
+  position: absolute;
+  top: -17px;
+  width: 676px;
+}
+
+.unity-projects .frame-47660 {
+  align-items: flex-start;
+  display: flex;
+  height: 162px;
+  margin-left: 6.0px;
+  margin-top: 19px;
+  min-width: 1064px;
+}
+
+.unity-projects .environmental-design {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 162px;
+  width: 1064px;
+}
+
+.unity-projects .overlap-group6 {
+  align-self: flex-start;
+  height: 1003px;
+  margin-left: -324px;
+  margin-top: 45px;
+  position: relative;
+  width: 1712px;
+}
+
+.unity-projects .overlap-group {
+  height: 806px;
+  left: 324px;
+  position: absolute;
+  top: 473px;
+  width: 1440px;
+}
+
+.unity-projects .vector-10 {
+  height: 428px;
+  left: 96px;
+  position: absolute;
+  top: 0;
+  width: 1292px;
+}
+
+.unity-projects .vector-11 {
+  height: 235px;
+  left: 84px;
+  position: absolute;
+  top: 192px;
+  width: 890px;
+}
+
+.unity-projects .vector-12 {
+  height: 110px;
+  left: 0;
+  position: absolute;
+  top: 419px;
+  width: 93px;
+}
+
+.unity-projects .my-role-designed-and {
+  left: 193px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 104px;
+  width: 424px;
+}
+
+.unity-projects .vector-13 {
+  height: 436px;
+  left: 439px;
+  position: absolute;
+  top: 370px;
+  width: 1001px;
+}
+
+.unity-projects .frame-47659 {
+  height: 147px;
+  left: 1133px;
+  position: absolute;
+  top: 294px;
+  width: 555px;
+}
+
+.unity-projects .frame-47644 {
+  background-image: url(../img/screen-recording-2024-11-23-222528-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 555px;
+  left: 677px;
+  position: absolute;
+  top: 0;
+  width: 746px;
+}
+
+.unity-projects .overlap-group11 {
+  height: 777px;
+  margin-left: 32.0px;
+  position: relative;
+  width: 1328px;
+}
+
+.unity-projects .overlap-group1 {
+  height: 486px;
+  left: -40px;
+  position: absolute;
+  top: 349px;
+  width: 1368px;
+}
+
+.unity-projects .vector-14 {
+  height: 486px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 1355px;
+}
+
+.unity-projects .vector-15 {
+  height: 267px;
+  left: 0;
+  position: absolute;
+  top: 218px;
+  width: 934px;
+}
+
+.unity-projects .visual-effects-post-processing {
+  left: 168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 136px;
+  width: 461px;
+}
+
+.unity-projects .this-was-achieved-th {
+  left: 153px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 219px;
+  width: 517px;
+}
+
+.unity-projects .frame-47658 {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  height: 410px;
+  left: 0;
+  min-width: 1295px;
+  position: absolute;
+  top: 0;
+}
+
+.unity-projects .frame-47621 {
+  align-items: flex-start;
+  background-image: url(../img/screen-recording-2024-11-24-120013-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 14px;
+  height: 410px;
+  justify-content: flex-end;
+  min-width: 640px;
+  padding: 46px 104px;
+}
+
+.unity-projects .arrow-3 {
+  height: 22px;
+  margin-top: 12.45px;
+  width: 277px;
+}
+
+.unity-projects .street-view {
+  height: 46px;
+  width: 46px;
+}
+
+.unity-projects .frame-47657 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 410px;
+  width: 640px;
+}
+
+.unity-projects .frame-47620 {
+  align-items: flex-end;
+  background-image: url(../img/screen-recording-2024-11-23-211839-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 368px;
+  justify-content: flex-end;
+  min-width: 640px;
+  padding: 17.9px 226.9px;
+}
+
+.unity-projects .arrow-4 {
+  height: 164px;
+  width: 149px;
+}
+
+.unity-projects .pov-down-the-corridor {
+  color: #eb3223;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 6px;
+  min-height: 31px;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+}
+
+.unity-projects .frame-47623 {
+  align-items: flex-end;
+  background-color: var(--black);
+  border: 10px solid;
+  border-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 250px;
+  left: 671px;
+  min-width: 500px;
+  padding: 24px 7px;
+  position: absolute;
+  top: 496px;
+}
+
+.unity-projects .play {
+  height: 30px;
+  width: 30px;
+}
+
+.unity-projects .frame-container-2 {
+  align-items: center;
+  display: flex;
+  margin-top: 67px;
+  min-width: 1440px;
+}
+
+.unity-projects .frame-47645 {
+  background-image: url(../img/screenshot-2024-11-13-161010-1@2x.png);
+  background-size: 100% 100%;
+  height: 219px;
+  margin-bottom: 0.76px;
+  width: 446px;
+}
+
+.unity-projects .frame-47648 {
+  background-image: url(../img/plus-math@2x.png);
+  background-size: 100% 100%;
+  height: 26px;
+  margin-left: 12px;
+  margin-top: 0.24px;
+  width: 26px;
+}
+
+.unity-projects .frame-47646 {
+  background-image: url(../img/screenshot-2024-11-13-161052@2x.png);
+  background-size: 100% 100%;
+  height: 228px;
+  margin-left: 13px;
+  width: 446px;
+}
+
+.unity-projects .frame-47649 {
+  background-image: url(../img/plus-math@2x.png);
+  background-size: 100% 100%;
+  height: 26px;
+  margin-left: 13px;
+  margin-top: 0.24px;
+  width: 26px;
+}
+
+.unity-projects .frame-47647 {
+  background-image: url(../img/screenshot-2024-11-13-160911@2x.png);
+  background-size: 100% 100%;
+  height: 226px;
+  margin-left: 12px;
+  margin-top: 0.39px;
+  width: 446px;
+}
+
+.unity-projects .frame-container-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 7px;
+  min-height: 726px;
+  width: 1440px;
+}
+
+.unity-projects .frame-47650 {
+  background-image: url(../img/equal-sign@2x.png);
+  background-size: 100% 100%;
+  height: 52px;
+  margin-right: 16.0px;
+  width: 52px;
+}
+
+.unity-projects .frame-47651 {
+  background-image: url(../img/screenshot-2024-11-13-161136.png);
+  background-size: 100% 100%;
+  height: 432px;
+  margin-right: 16.0px;
+  margin-top: 7px;
+  width: 878px;
+}
+
+.unity-projects .frame-47626 {
+  height: 225px;
+  margin-top: 10px;
+  width: 1440px;
+}
+
+.unity-projects .ellipse {
+  background-color: var(--white);
+  border-radius: 50px;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  width: 100px;
+}

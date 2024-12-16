@@ -1,0 +1,115 @@
+:root { 
+  --big-stone: #1d2f3e;
+  --big-stone-2: #182843;
+  --black: #000000;
+  --science-blue: #0162c0;
+  --seashell: #f1f1f1;
+  --tangaroa: #01183e;
+  --white: #ffffff;
+ 
+  --font-size-l: 25px;
+  --font-size-m: 24px;
+  --font-size-s: 20px;
+  --font-size-xl: 32px;
+  --font-size-xs: 16px;
+  --font-size-xxl: 40px;
+  --font-size-xxxl: 48px;
+ 
+  --font-family-eater: "Eater", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+}
+.inter-normal-tangaroa-24px {
+  color: var(--tangaroa);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-tangaroa-32px {
+  color: var(--tangaroa);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-big-stone-32px {
+  color: var(--big-stone);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-tangaroa-16px {
+  color: var(--tangaroa);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-white-50px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-big-stone-24px {
+  color: var(--big-stone);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-tangaroa-36px {
+  color: var(--tangaroa);
+  font-family: var(--font-family-inter);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-big-stone-24px {
+  color: var(--big-stone-2);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}

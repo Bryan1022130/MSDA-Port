@@ -1,0 +1,457 @@
+/* screen - animation */
+
+.animation {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgba(1, 98, 192, 0.3) 0%, rgb(92, 96, 111) 100%);
+  background-color: rgba(255,255,255,1.0);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 3405px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.animation .frame-2 {
+  align-items: flex-end;
+  background-color: var(--tangaroa);
+  border-radius: 0px 0px 15px 15px;
+  display: flex;
+  height: 225px;
+  overflow: hidden;
+  padding: 30px 450px;
+  width: 1440px;
+}
+
+.animation .projects {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 8px;
+  min-height: 48px;
+  min-width: 162px;
+  white-space: nowrap;
+}
+
+.animation .overlap-group6 {
+  height: 3170px;
+  margin-right: -1931.0px;
+  position: relative;
+  width: 3971px;
+}
+
+.animation .overlap-group5 {
+  height: 3170px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 3971px;
+}
+
+.animation .overlap-group1 {
+  height: 530px;
+  left: 695px;
+  position: absolute;
+  top: 2472px;
+  width: 1345px;
+}
+
+.animation .overlap-group {
+  height: 530px;
+  left: 201px;
+  position: absolute;
+  top: 0;
+  width: 1144px;
+}
+
+.animation .vector {
+  height: 428px;
+  left: 420px;
+  position: absolute;
+  top: 0;
+  width: 724px;
+}
+
+.animation .vector-1 {
+  height: 235px;
+  left: 408px;
+  position: absolute;
+  top: 192px;
+  width: 736px;
+}
+
+.animation .vector-2 {
+  height: 110px;
+  left: 0;
+  position: absolute;
+  top: 419px;
+  width: 417px;
+}
+
+.animation .discover-the-vibrant {
+  left: 521px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 103px;
+  width: 436px;
+}
+
+.animation .pt4_1 {
+  height: 298px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 116px;
+  width: 530px;
+}
+
+.animation .frame-47611 {
+  height: 225px;
+  left: 600px;
+  position: absolute;
+  top: 2945px;
+  width: 1440px;
+}
+
+.animation .frame-47663 {
+  background-image: url(../img/pt3-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 298px;
+  left: 1418px;
+  position: absolute;
+  top: 2220px;
+  width: 530px;
+}
+
+.animation .frame-47572 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 781px;
+  min-height: 339px;
+  padding: 32px 15px;
+  position: absolute;
+  top: 2185px;
+  width: 435px;
+}
+
+.animation .environment-and-lighting {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  width: 404px;
+}
+
+.animation .designed-a-vibrant-s {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 232px;
+  width: 400px;
+}
+
+.animation .frame-47559 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 1418px;
+  min-height: 318px;
+  padding: 36px 15px;
+  position: absolute;
+  top: 1133px;
+  width: 435px;
+}
+
+.animation .ted-r {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 203px;
+  width: 400px;
+}
+
+.animation .overlap-group2 {
+  height: 1430px;
+  left: 1270px;
+  position: absolute;
+  top: 1092px;
+  width: 100px;
+}
+
+.animation .ellipse-195 {
+  top: 1330px;
+}
+
+.animation .rectangle-93 {
+  background-color: var(--white);
+  border-radius: 30px;
+  height: 1430px;
+  left: 26px;
+  width: 48px;
+}
+
+.animation .frame-47609 {
+  background-image: url(../img/ref-wepa-scene-1-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 297px;
+  left: 695px;
+  position: absolute;
+  top: 1143px;
+  width: 528px;
+}
+
+.animation .frame-47554 {
+  align-items: flex-start;
+  display: flex;
+  gap: 13443px;
+  height: 1205px;
+  left: 0;
+  min-width: 3971px;
+  position: absolute;
+  top: 0;
+}
+
+.animation .vector-3 {
+  align-self: flex-end;
+  height: 147px;
+  margin-bottom: -648px;
+  margin-left: -13398px;
+  width: 555px;
+}
+
+.animation .overlap-group3 {
+  height: 1070px;
+  position: relative;
+  width: 1440px;
+}
+
+.animation .vector-4 {
+  height: 570px;
+  left: 0;
+  position: absolute;
+  top: 500px;
+  width: 1440px;
+}
+
+.animation .vector-5 {
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 756px;
+  width: 1128px;
+}
+
+.animation .vector-6 {
+  height: 754px;
+  left: 756px;
+  position: absolute;
+  top: 0;
+  width: 684px;
+}
+
+.animation .vector-7 {
+  height: 415px;
+  left: 733px;
+  position: absolute;
+  top: 338px;
+  width: 707px;
+}
+
+.animation .vector-8 {
+  height: 195px;
+  left: 0;
+  position: absolute;
+  top: 559px;
+  width: 751px;
+}
+
+.animation .goal {
+  left: 194px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 625px;
+  white-space: nowrap;
+  width: 434px;
+}
+
+.animation .why-it-matters {
+  left: 194px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 825px;
+  white-space: nowrap;
+  width: 434px;
+}
+
+.animation .to-animate-tradition {
+  left: 194px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 656px;
+  width: 516px;
+}
+
+.animation .this-project-explore {
+  left: 194px;
+  top: 860px;
+  width: 607px;
+}
+
+.animation .this-project-brings {
+  left: 828px;
+  top: 337px;
+  width: 434px;
+}
+
+.animation .frame-47607 {
+  background-image: url(../img/ref-paso-pluma-scene-1-0600-2-1-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 297px;
+  left: 818px;
+  position: absolute;
+  top: 706px;
+  width: 528px;
+}
+
+.animation .mexican_dance_showcase_1-1 {
+  height: 356px;
+  left: 788px;
+  object-fit: cover;
+  position: absolute;
+  top: 244px;
+  width: 614px;
+}
+
+.animation .overlap-group4 {
+  height: 220px;
+  left: 877px;
+  position: absolute;
+  top: 0;
+  width: 886px;
+}
+
+.animation .rectangle-84 {
+  background-color: var(--science-blue);
+  border-radius: 15px;
+  height: 220px;
+  left: 1px;
+  width: 885px;
+}
+
+.animation .animation-showcase {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 57px;
+  width: 886px;
+}
+
+.animation .frame-47571 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  left: 1424px;
+  min-height: 339px;
+  padding: 46px 15px;
+  position: absolute;
+  top: 1836px;
+  width: 435px;
+}
+
+.animation .animation-refinement {
+  min-height: 42px;
+  width: 404px;
+}
+
+.animation .frame-47662 {
+  background-image: url(../img/pt2-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 298px;
+  left: 695px;
+  position: absolute;
+  top: 1852px;
+  width: 530px;
+}
+
+.animation .ref_wepa_scene-1_2-1 {
+  height: 297px;
+  left: 1418px;
+  object-fit: cover;
+  position: absolute;
+  top: 1498px;
+  width: 528px;
+}
+
+.animation .frame-47560 {
+  align-items: flex-start;
+  background-color: var(--seashell);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 781px;
+  min-height: 339px;
+  padding: 17px 15px;
+  position: absolute;
+  top: 1476px;
+  width: 435px;
+}
+
+.animation .motion-capture-setup {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 39px;
+  width: 404px;
+}
+
+.animation .utilized-a-mo-cap-st {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 261px;
+  width: 400px;
+}
+
+.animation .animation-1 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.animation .ellipse {
+  background-color: var(--white);
+  border-radius: 50px;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  width: 100px;
+}
+
+.animation .rectangle {
+  position: absolute;
+  top: 0;
+}
+
+.animation .this-project {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+}
